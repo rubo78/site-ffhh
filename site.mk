@@ -37,6 +37,6 @@ GLUON_PRIORITY ?= 0
 # Region code required for some images; supported values: us eu
 GLUON_REGION ?= eu
 
-GLUON_ATH10K_MESH ?= ibss
+GLUON_ATH10K_MESH ?= 11s
 
 GLUON_LANGS ?= en de
